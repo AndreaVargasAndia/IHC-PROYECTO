@@ -1,5 +1,7 @@
 # IHC-PROYECTO
 ![img2](https://github.com/AndreaVargasAndia/IHC-PROYECTO/blob/main/img/model1.PNG)
+
+
 ![img](https://github.com/AndreaVargasAndia/IHC-PROYECTO/blob/main/img/model.PNG)
 
 
