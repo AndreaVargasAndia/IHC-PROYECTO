@@ -1,8 +1,8 @@
 # IHC-PROYECTO
-![img2](https://github.com/AndreaVargasAndia/IHC-PROYECTO/blob/main/img/app1.PNG)
+![img2](https://github.com/AndreaVargasAndia/IHC-PROYECTO/blob/main/img/app1.png)
 
 
-![img](https://github.com/AndreaVargasAndia/IHC-PROYECTO/blob/main/img/multiusuario.PNG)
+![img](https://github.com/AndreaVargasAndia/IHC-PROYECTO/blob/main/img/multiusuario.png)
 
 
 
